@@ -63,5 +63,12 @@
 		$("body").removeClass("contact-on");
 	});
 
+	//Email Page
+	// $(".email").on('click', function () {
+	// 	$("body").addClass("email-on");
+	// });
+	// $(".email-close").on('click', function () {
+	// 	$("body").removeClass("email-on");
+	// });
 	
 })(jQuery);
